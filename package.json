@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Caheve/Ciclo-4-MisionTIC/issues"
   },
-  "homepage": "https://github.com/Caheve/Ciclo-4-MisionTIC#readme"
+  "homepage": "https://github.com/Caheve/Ciclo-4-MisionTIC#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
 }

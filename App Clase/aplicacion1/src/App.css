@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -14,6 +15,7 @@
 }
 
 .App-header {
+  
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -22,6 +24,10 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  background: #9CECFB; 
+  background: -webkit-linear-gradient(to right, #0052D4, #65C7F7, #16798a);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #0052D4, #3889b1, #217180); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
 
 .App-link {
