@@ -1,0 +1,19 @@
+{
+  "name": "caheve",
+  "version": "1.0.0",
+  "description": "Todo lo aprendido en el Ciclo 4 de Mision TIC 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caheve/Ciclo-4-MisionTIC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caheve/Ciclo-4-MisionTIC/issues"
+  },
+  "homepage": "https://github.com/Caheve/Ciclo-4-MisionTIC#readme"
+}
