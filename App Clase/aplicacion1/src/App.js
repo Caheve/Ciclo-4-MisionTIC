@@ -3,6 +3,7 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Navegacion from './Componentes/Navegacion';
 import Cargar from './Componentes/Cargar';
+import Pie_Pagina from './Componentes/Pie_Pagina';
 
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
     <div className="App">
       <Navegacion enlace1='Inicio' enlace2='Nuevo' enlace3='Login' />
       <Cargar/>
+      <Pie_Pagina/>
       
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
